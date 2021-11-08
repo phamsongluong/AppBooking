@@ -6,3 +6,4 @@ Step to run the app:
 3. Run `npm install` to install all dependencies
 4. Run `npm start` to start the server
 5. Enter localhost:3000 on web browser to connect with server
+6. Click Book to book the type of booking.
